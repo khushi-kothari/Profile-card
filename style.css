@@ -1,4 +1,9 @@
 .contain {
+  display: flex;
+}
+.contain {
+  margin: auto;
+  text-align: center;
   background-color: hsl(185, 75%, 39%);
   display: flex;
   margin-top: 100px;
