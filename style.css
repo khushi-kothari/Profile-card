@@ -23,8 +23,8 @@
 .cards {
   margin: auto;
   background-color: white;
-  width: 198px;
-  height: 212px;
+  width: 220px;
+  height: 260px;
   border-radius: 10px;
 }
 
@@ -32,8 +32,8 @@
   border-radius: 10px;
   background-image: url("/profile-card-component-main/images/bg-pattern-card.svg");
   background-size: cover;
-  width: 198px;
-  height: 78px;
+  width: 220px;
+  height: 110px;
 }
 
 .caption {
