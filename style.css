@@ -90,7 +90,7 @@ hr {
   font-size: 0.6em;
 }
 
-@media screen and (max-width: 375px) {
+/* @media screen and (max-width: 375px) {
   .contain {
     /*
     height: 667px;
@@ -112,4 +112,4 @@ hr {
     width: 80%;
     min-height: 406px;
   }
-}
+} */
